@@ -3,4 +3,4 @@ I have added atmost 3 lines :
 1).A
 2).B
 3).C
-Adding a line in demo.txt to make a conflicts.I have added an icecream.
+Adding a line in demo.txt to make a conflicts.I have added an icecream and also cake.
