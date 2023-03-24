@@ -1,0 +1,1 @@
+A developer making changes to demo.txt by adding 3 line.Meanwhile, the remote repo is been moved ahead to one commit.
