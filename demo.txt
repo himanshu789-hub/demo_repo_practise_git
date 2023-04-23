@@ -4,4 +4,4 @@ I have added atmost 3 lines :
 2).B
 3).C
 Adding a line in demo.txt to make a conflicts.I have added an icecream and also cake.
-Added a new line to understand git fetch
+Added a new line to understand git fetch.Adding some more content
